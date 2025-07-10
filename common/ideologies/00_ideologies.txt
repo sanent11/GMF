@@ -442,7 +442,7 @@ ideologies = {
 			"FACTION_NAME_FASCIST_1"
 		}
 
-		color = { 0 155 118 }
+		color = { 39 121 137 }
 
 		war_impact_on_world_tension = 1.0			#evil!
 		faction_impact_on_world_tension = 1.0
@@ -486,7 +486,7 @@ ideologies = {
 			"FACTION_NAME_FASCIST_1"
 		}
 
-		color = { 230 103 97 }
+		color = { 135 39 13 }
 
 		war_impact_on_world_tension = 1.0			
 		faction_impact_on_world_tension = 1.0
