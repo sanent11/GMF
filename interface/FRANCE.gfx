@@ -1,0 +1,41 @@
+spriteTypes = {
+
+
+	spriteType = {
+		name = "GFX_portrait_Puankare"
+		texturefile = "gfx/leaders/FRA/Puankare.png"
+	}
+	spriteType = {
+		name = "GFX_portrait_Mandel_small"
+		texturefile = "gfx/leaders/FRA/ministers/idea_Mandel.png"
+	}
+	spriteType = {
+		name = "GFX_portrait_Tardie_small"
+		texturefile = "gfx/leaders/FRA/ministers/idea_Tardieu.png"
+	}
+	spriteType = {
+		name = "GFX_portrait_Laval_small"
+		texturefile = "gfx/leaders/FRA/ministers/idea_Laval.png"
+	}
+	spriteType = {
+		name = "GFX_portrait_Flanden_small"
+		texturefile = "gfx/leaders/FRA/ministers/idea_Flandin.png"
+	}
+	#############
+	
+	spriteType = {
+		name = "GFX_idea_dip_tupik"
+		texturefile = "gfx/interface/ideas/FRA/idea_dip_tupik.png"
+	}
+	spriteType = {
+		name = "GFX_idea_lavri_pobedi"
+		texturefile = "gfx/interface/ideas/FRA/idea_lavri_pobedi.png"
+	}
+	spriteType = {
+		name = "GFX_idea_rasvet_radikalov"
+		texturefile = "gfx/interface/ideas/FRA/idea_rasvet_radikalov.png"
+	}
+	spriteType = {  
+		name = "GFX_idea_vremeno_vechnaya_dictatura"
+		texturefile = "gfx/interface/ideas/FRA/idea_vremeno_vechnaya_dictatura.png"
+	}

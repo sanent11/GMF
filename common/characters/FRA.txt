@@ -1,0 +1,104 @@
+characters = {
+	
+
+	Puankare = {
+		name = Puankare
+		portraits = {
+			civilian = {
+				large = GFX_portrait_Puankare
+			}
+		}
+
+		country_leader = {
+			ideology = personal_dictatura
+			traits = {  }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+	}
+	Flanden = {
+		name = Flanden
+		portraits={
+			civilian = {
+				small= GFX_portrait_Flanden_small
+			}
+		}
+		advisor = {
+			slot = political_advisor1
+			idea_token = Flanden_min
+			ledger = civilian
+			allowed = {
+				original_tag = FRA 
+			}
+			can_be_fired = no
+			traits = {
+				flanden_min_trait
+			}
+		}
+		advisor = {
+			slot = political_advisor4
+			idea_token = Flanden_min2
+			ledger = civilian
+			allowed = {
+				original_tag = FRA 
+			}
+			can_be_fired = no
+			traits = {
+				flanden_min2_trait
+			}
+		}
+	}
+	Tardie = {
+		name = Tardie
+		portraits={
+			civilian = {
+				small= GFX_portrait_Tardie_small
+			}
+		}
+		advisor = {
+			slot = political_advisor2
+			idea_token = Tardie_min
+			ledger = civilian
+			can_be_fired = no
+			traits = {
+				tardie_min_trait
+			}
+		}
+	}
+	Laval = {
+		name = Laval
+		portraits={
+			civilian = {
+				small= GFX_portrait_Laval_small
+			}
+		}
+		advisor = {
+			slot = political_advisor3
+			idea_token = Laval_min
+			ledger = civilian
+			can_be_fired = no
+			traits = {
+				Laval_min_trait
+			}
+		}
+	}
+	Mandel = {
+		name = Mandel
+		portraits={
+			civilian = {
+				small= GFX_portrait_Mandel_small
+			}
+		}
+		advisor = {
+			slot = political_advisor5
+			idea_token = Mandel_min
+			ledger = civilian
+			can_be_fired = no
+			traits = {
+				Mandel_min_trait
+			}
+		}
+	}
+}
+

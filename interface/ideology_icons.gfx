@@ -1,0 +1,10 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_ideology_fiumanism"
+		textureFile = "gfx/interface/ideologies/fiumanism.png"
+	}
+	spriteType = {
+		name = "GFX_ideology_personal_dictatura" 
+		textureFile = "gfx/interface/ideologies/personal_dictatura.png"
+	} 	
+} 

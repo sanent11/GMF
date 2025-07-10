@@ -1,0 +1,88 @@
+ideas = {
+
+	country = {
+		vremeno_vechnaya_dictatura = {
+
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = idea_vremeno_vechnaya_dictatura
+
+			modifier = {
+				stability_factor = 0.05
+				neutrality_drift = -0.01
+			}
+		}
+		rasvet_radikalov = {
+
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = idea_rasvet_radikalov
+
+			modifier = {
+			revolt_soc_drift = 0.01
+			democratic_drift = 0.01
+			fascism_drift = 0.01
+			social_nationalism_drift = 0.01
+			stability_factor = -0.1
+			weekly_manpower = -500
+				
+			}
+		}
+		dip_tupik = {
+
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = idea_dip_tupik
+
+			modifier = {
+				trade_opinion_factor = 0.5
+				send_volunteer_size = -1000
+				
+			}
+		}
+		lavri_pobedi = {
+
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = idea_lavri_pobedi
+
+			modifier = {
+			war_support_factor = -0.1
+			stability_factor = 0.15
+				
+			}
+		}
+	}
+}

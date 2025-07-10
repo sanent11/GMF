@@ -1,0 +1,77 @@
+ideas = {
+
+	country = {
+		mafiozi_razgul = {
+
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = idea_mafiozi_razgul
+
+			modifier = {
+				
+			}
+		}
+		zavisimost = {
+
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = idea_zavisimost
+
+			modifier = {
+				
+			}
+		}
+		gangster_or_poets_land = {
+
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = idea_gangster_or_poets_land
+
+			modifier = {
+				
+			}
+		}
+		karnavals_land = {
+
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = idea_karnavals_land
+
+			modifier = {
+				
+			}
+		}
+	}
+}

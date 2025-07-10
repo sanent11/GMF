@@ -1,0 +1,43 @@
+﻿l_russian:
+ communism: "Левый коммунизм"
+ communism_noun: "Левый коммунизм"
+ bolshevizm: "Большевизм"
+ bolshevizm_noun: "Большевизм"
+ revolt_soc: "Революционный социализм"
+ revolt_soc_noun: "Революционный социализм"
+ democratic: "Социал-демократия"
+ democratic_noun: "Социал-демократия"
+ liberocratic: "Либерализм"
+ liberocratic_noun: "Либерализм"
+ conservocratic: "Консерватизм"
+ conservocratic_noun: "Консерватизм"
+ neutrality: "Патернализм"
+ neutrality_noun: "Патернализм"
+ fascism: "Ультранационализм"
+ fascism_noun: "Ультранационализм"
+ romantism: "Политический романтизм"
+ romantism_noun: "Политический романтизм"
+ social_nationalism: "Социальный национализм"
+ social_nationalism_noun: "Социальный национализм"
+ 
+ communism_desc: "Коммунистический режим"
+ bolshevizm_desc: "Большевистский режим"
+ revolt_soc_desc: "Революционный режим"
+ democratic_desc: "Соц-демократический режим"
+ liberocratic_desc: "Либеральный режим"
+ conservocratic_desc: "Консервативный режим"
+ neutrality_desc: "Авторитарный режим"
+ fascism_desc: "Ультранационалистический режим"
+ romantism_desc: "Романтический режим"
+ social_nationalism_desc: "Соц-националистический режим"
+ 
+ 
+
+ 
+ fiumanism: "Фиуманизм"
+ fiumanism_desc: "\n\n\n\n£GFX_bigicon_ideology_fiumanism\n\n\n\n\n"
+ personal_dictatura: "Персональная диктатура"
+ personal_dictatura_desc: "\n\n\n\n£GFX_bigicon_ideology_persdictatoship\n\n\n\n\n" 
+ 
+ 
+ 

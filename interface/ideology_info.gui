@@ -1,0 +1,35 @@
+guiTypes = {
+	containerWindowType = {
+		name = "countrypoliticsview_ideology_info"
+		position = { x = 93 y = 305 }
+	    
+		instantTextboxType = {
+			name = "subideology"
+			position = { x =182 y = -160 }
+			font = "hoi_18mbs"
+			text = "[get_subideology_loc]"
+			format = left
+			vertical_alignment = CENTER
+			maxWidth = 180
+			maxHeight = 40
+			fixedsize = yes
+		}
+	}
+	containerWindowType = {
+		name = "countrydiplomacyview_ideology_info"
+		position = { x = 235 y = 124 }
+		size = { width = 255 height = 60 }
+		clipping = no
+		instantTextboxType = {
+			name = "ideology_gui"
+			position = { x = 28 y = 35 }
+			font = "hoi_16mbs"
+			text = "[get_subideology_loc]"
+			maxWidth = 245
+			maxHeight = 20
+			format = left
+			alwaystransparent=yes
+			fixedsize = yes
+		}
+	}
+}

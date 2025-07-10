@@ -1,0 +1,195 @@
+defined_text = {
+	name = get_subideology_loc
+	text = {
+	    trigger = {
+		    has_government = communism
+		}
+		localization_key = "[get_subideology_communism]"
+	}
+	text = {
+	    trigger = {
+		    has_government = bolshevizm
+		}
+		localization_key = "[get_subideology_bolshevizm]"
+	}
+	text = {
+	    trigger = {
+		    has_government = revolt_soc
+		}
+		localization_key = "[get_subideology_revolt_soc]"
+	}
+	text = {
+	    trigger = {
+		    has_government = democratic
+		}
+		localization_key = "[get_subideology_democratic]"
+	}
+	text = {
+	    trigger = {
+		    has_government = liberocratic
+		}
+		localization_key = "[get_subideology_liberocratic]"
+	}
+	text = {
+	    trigger = {
+		    has_government = conservocratic
+		}
+		localization_key = "[get_subideology_conservocratic]"
+	}
+	text = {
+	    trigger = {
+		    has_government = neutrality
+		}
+		localization_key = "[get_subideology_neutrality]"
+	}
+	text = {
+	    trigger = {
+		    has_government = fascism
+		}
+		localization_key = "[get_subideology_fascism]"
+	}
+	text = {
+	    trigger = {
+		    has_government = romantism
+		}
+		localization_key = "[get_subideology_romantism]"
+	}
+	text = {
+	    trigger = {
+		    has_government = social_nationalism
+		}
+		localization_key = "[get_subideology_social_nationalism]"
+	}
+	text = {
+		localization_key = ideology_loc_error
+	}
+}
+	
+	#Левый коммунизм
+	defined_text = {
+	    name = get_subideology_communism
+		text = {
+		    trigger = {
+			    has_country_leader_ideology = marxism
+			}
+			localization_key = marxism
+	    }
+		
+	}
+	#Большевизм
+	defined_text = {
+	    name = get_subideology_bolshevizm
+		text = {
+		    trigger = {
+			    has_country_leader_ideology = bolshevizm_ideology
+			}
+			localization_key = bolshevizm_ideology
+	    }
+	}
+	#Револ Социализм
+	defined_text = {
+	    name = get_subideology_revolt_soc
+		text = {
+		    trigger = {
+			    has_country_leader_ideology = revolt_soc_ideology
+			}
+			localization_key = revolt_soc_ideology
+	    }
+	}
+	#Соц-дем
+	defined_text = {
+	    name = get_subideology_democratic
+		text = {
+		    trigger = {
+			    has_country_leader_ideology = socialism
+			}
+			localization_key = socialism
+	    }
+	}
+	#Либерализм
+	defined_text = {
+	    name = get_subideology_liberocratic
+		text = {
+		    trigger = {
+			    has_country_leader_ideology = liberalism
+			}
+			localization_key = liberalism
+	    }
+	}
+	#Консерватизм
+	defined_text = {
+	    name = get_subideology_conservocratic
+		text = {
+		    trigger = {
+			    has_country_leader_ideology = conservatism
+			}
+			localization_key = conservatism
+	    }
+	}
+	#Патернализм
+	defined_text = {
+	    name = get_subideology_neutrality
+		text = {
+		    trigger = {
+			    has_country_leader_ideology = despotism
+			}
+			localization_key = despotism
+	    }
+		text = {
+		    trigger = {
+			    has_country_leader_ideology = oligarchism
+			}
+			localization_key = oligarchism
+	    }
+		text = {
+		    trigger = {
+			    has_country_leader_ideology = moderatism
+			}
+			localization_key = moderatism
+	    }
+		text = {
+		    trigger = {
+			    has_country_leader_ideology = centrism
+			}
+			localization_key = centrism
+	    }
+		text = {
+		    trigger = {
+			    has_country_leader_ideology = personal_dictatura
+			}
+			localization_key = personal_dictatura
+	    }
+	}
+	#Ультранационализм
+	defined_text = {
+	    name = get_subideology_fascism
+		text = {
+		    trigger = {
+			    has_country_leader_ideology = fascism_ideology
+			}
+			localization_key = fascism_ideology
+	    }
+
+	}
+	#Романтизм
+	defined_text = {
+	    name = get_subideology_romantism
+		text = {
+		    trigger = {
+			    has_country_leader_ideology = fiumanism
+			}
+			localization_key = fiumanism
+	    }
+	}
+	#Соц национализм
+	defined_text = {
+	    name = get_subideology_social_nationalism
+		text = {
+		    trigger = {
+			    has_country_leader_ideology = soc_nationalism
+			}
+			localization_key = soc_nationalism
+	    }
+	}
+	
+	

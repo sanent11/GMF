@@ -1,0 +1,13 @@
+spriteTypes = {	
+
+	SpriteType = {
+		name = "GFX_bigicon_ideology_fiumanism"
+		texturefile = "gfx/ideology_big_icons/ideology_fiumanism.png" 
+		
+	}
+	SpriteType = {
+		name = "GFX_bigicon_ideology_persdictatoship"
+		texturefile = "gfx/ideology_big_icons/ideology_persdictatoship.png"
+		
+	}
+}

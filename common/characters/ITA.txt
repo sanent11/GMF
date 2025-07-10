@@ -1,0 +1,104 @@
+characters = {
+	
+
+	Danuzzio = {
+		name = Danuzzio
+		portraits = {
+			civilian = {
+				large = GFX_portrait_Danuzzio
+			}
+		}
+
+		country_leader = {
+			ideology = fiumanism
+			traits = { narkoman }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+	}
+	Marinetti = {
+		name = Marinetti
+		portraits={
+			civilian = {
+				small= GFX_portrait_Marinetti_small
+			}
+		}
+		advisor = {
+			slot = political_advisor1
+			idea_token = Marinetti_min
+			ledger = civilian
+			can_be_fired = no
+			traits = {
+				Marinetti_min_trait
+			}
+		}
+	}
+	De_Ambris = {
+		name = De_Ambris
+		portraits={
+			civilian = {
+				small= GFX_portrait_De_Ambris_small
+			}
+		}
+		advisor = {
+			slot = political_advisor2
+			idea_token = De_Ambris_min
+			ledger = civilian
+			can_be_fired = no
+			traits = {
+				De_Ambris_min_trait
+			}
+		}
+	}
+	Annunzio = {
+		name = Annunzio
+		portraits={
+			civilian = {
+				small= GFX_portrait_Annunzio_small
+			}
+		}
+		advisor = {
+			slot = political_advisor3
+			idea_token = Annunzio_min
+			ledger = civilian
+			can_be_fired = no
+			traits = {
+				Annunzio_min_trait
+			}
+		}
+	}
+	Mussolini = {
+		name = Mussolini
+		portraits={
+			civilian = {
+				small= GFX_portrait_Mussolini_small
+			}
+		}
+		advisor = {
+			slot = political_advisor4
+			idea_token = Mussolini_min
+			ledger = civilian
+			can_be_fired = no
+			traits = {
+				Mussolini_min_trait
+			}
+		}
+	}
+	Toscanini = {
+		name = Toscanini
+		portraits={
+			civilian = {
+				small= GFX_portrait_Toscanini_small
+			}
+		}
+		advisor = {
+			slot = political_advisor5
+			idea_token = Toscanini_min
+			ledger = civilian
+			can_be_fired = no
+			traits = {
+				Toscanini_min_trait
+			}
+		}
+	}

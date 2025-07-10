@@ -1,0 +1,27 @@
+
+state={
+	id=1018
+	name="STATE_1018"
+
+	history={
+		owner = DRZ
+		victory_points = {
+			7184 1 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = DRZ
+
+	}
+
+	provinces={
+		7184
+	}
+	manpower=1325594
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=2.0 
+}

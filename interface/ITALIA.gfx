@@ -1,0 +1,46 @@
+spriteTypes = {
+
+
+	spriteType = {
+		name = "GFX_portrait_Danuzzio"
+		texturefile = "gfx/leaders/ITA/Danuzzio.png"
+	}
+	###############
+	spriteType = {
+		name = "GFX_portrait_Marinetti_small"
+		texturefile = "gfx/leaders/ITA/ministers/idea_Marinetti.png"
+	}
+	spriteType = {
+		name = "GFX_portrait_Annunzio_small"
+		texturefile = "gfx/leaders/ITA/ministers/idea_D_39_annunzio.png"
+	}
+	spriteType = {
+		name = "GFX_portrait_De_Ambris_small"
+		texturefile = "gfx/leaders/ITA/ministers/idea_de_Ambris.png"
+	}
+	spriteType = {
+		name = "GFX_portrait_Mussolini_small"
+		texturefile = "gfx/leaders/ITA/ministers/idea_Mussolini.png"
+	}
+	spriteType = {
+		name = "GFX_portrait_Toscanini_small"
+		texturefile = "gfx/leaders/ITA/ministers/idea_Toscanini.png"
+	}
+	
+	####
+	spriteType = { 
+		name = "GFX_idea_mafiozi_razgul"
+		texturefile = "gfx/interface/ideas/ITA/idea_mafiozi_razgul.png"
+	}
+	spriteType = {
+		name = "GFX_idea_zavisimost"
+		texturefile = "gfx/interface/ideas/ITA/idea_zavisimost.png"
+	}
+	spriteType = {
+		name = "GFX_idea_gangster_or_poets_land"
+		texturefile = "gfx/interface/ideas/ITA/idea_gangster_or_poets_land.png"
+	}
+	spriteType = {
+		name = "GFX_idea_karnavals_land"
+		texturefile = "gfx/interface/ideas/ITA/idea_karnavals_land.png"
+	}

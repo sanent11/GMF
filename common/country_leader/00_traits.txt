@@ -1,0 +1,35 @@
+leader_traits = {
+
+	flanden_min_trait = {
+		random = no
+		political_power_gain = 0.25
+		stability_factor = 0.05
+	}
+	flanden_min2_trait = {
+		random = no
+		production_factory_max_efficiency_factor = 0.1
+		
+	}
+	tardie_min_trait = {
+		random = no
+		resistance_activity = -0.1
+		neutrality_drift = 0.01
+		
+	}
+	Laval_min_trait = {
+		random = no
+		production_factory_max_efficiency_factor = -0.05
+		stability_factor = 0.05
+		
+	}
+	Mandel_min_trait = {
+		random = no
+		democratic_acceptance = 20
+		liberocratic_acceptance = 20
+		conservocratic_acceptance = 20
+		neutrality_acceptance = 20
+		neutrality_drift = 0.01
+		
+	}
+	
+}
