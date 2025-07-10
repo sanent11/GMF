@@ -1,13 +1,17 @@
 spriteTypes = {	
 
-	SpriteType = {
+	spriteType = {
 		name = "GFX_bigicon_ideology_fiumanism"
-		texturefile = "gfx/ideology_big_icons/ideology_fiumanism.png" 
+		texturefile = "gfx/texticons/banners/ideology_fiumanism.png"
+		legacy_lazy_load = no
+		
 		
 	}
-	SpriteType = {
+	spriteType = {
 		name = "GFX_bigicon_ideology_persdictatoship"
-		texturefile = "gfx/ideology_big_icons/ideology_persdictatoship.png"
+		texturefile = "gfx/texticons/banners/ideology_persdictatoship.png"
+		legacy_lazy_load = no
+		
 		
 	}
 }
