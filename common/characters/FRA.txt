@@ -31,7 +31,6 @@ characters = {
 			allowed = {
 				original_tag = FRA 
 			}
-			can_be_fired = no
 			traits = {
 				flanden_min_trait
 			}
@@ -43,7 +42,6 @@ characters = {
 			allowed = {
 				original_tag = FRA 
 			}
-			can_be_fired = no
 			traits = {
 				flanden_min2_trait
 			}
@@ -60,7 +58,6 @@ characters = {
 			slot = political_advisor2
 			idea_token = Tardie_min
 			ledger = civilian
-			can_be_fired = no
 			traits = {
 				tardie_min_trait
 			}
@@ -77,7 +74,6 @@ characters = {
 			slot = political_advisor3
 			idea_token = Laval_min
 			ledger = civilian
-			can_be_fired = no
 			traits = {
 				Laval_min_trait
 			}
@@ -94,7 +90,6 @@ characters = {
 			slot = political_advisor5
 			idea_token = Mandel_min
 			ledger = civilian
-			can_be_fired = no
 			traits = {
 				Mandel_min_trait
 			}
