@@ -2729,7 +2729,7 @@
  TUR_mehmet_fahri_engin_bftb: "Мехмет Фахри Энгин"
  ALREADY_HAS_ADVISOR_WITH_TRAIT: "Уже есть назначенный советник с этой чертой."
  POL_investments_monarchist: "Инвестиции монархистов"
- CHANGE_ADVISOR: "\nЭтого советника можно заменить, щелкнув здесь и выбрав замену."
+ CHANGE_ADVISOR: ""
  league_of_nations_member_idea: "Член Лиги Наций"
  LoN_disbanded_flag: "Лига Наций более не активна"
  organization_of_african_unity_member_idea: "Член Организации африканского единства"
