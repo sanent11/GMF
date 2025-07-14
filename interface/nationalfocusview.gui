@@ -192,11 +192,12 @@ guiTypes = {
 				
 				containerWindowType = {
 					name = "continuous_focus_window"
-					position = { x=0 y=0 }
-					size = { width = 770 height = 380 }
+					position = { x=-10000 y=-10000 }  
++      				size = { width = 1 height = 1 }   
++       			visible = no                      
++       			clipping = yes                   
 					margin = { top = 13 left = 0 bottom = 13 right = 13}
 					drag_scroll = { left middle }
-					clipping = no
 					
 					background = {
 						name = "Background"
@@ -438,8 +439,9 @@ guiTypes = {
 	containerWindowType = {
 		name = "continuous_national_focus_item"
 		position = { x=0 y=0 }
-		size = { width = 80 height = 124 }
-		clipping = no
+		size = { width = 0 height = 0 }
+		clipping = yes
+		visible = no
 
 		iconType = {
 			name = "continuous_glow"
