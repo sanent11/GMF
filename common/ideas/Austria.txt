@@ -8,10 +8,39 @@ ideas = {
 
 			removal_cost = -1
 
-			modifier = {
-				
+			picture = GFX_idea_bezrabotitsa
+
+			modifier = {		
 				production_speed_buildings_factor = -0.3
 				stability_factor = -0.1
+			}
+		}
+
+		AUS_Conflict_between_left_and_right = {
+			allowed = {
+				original_tag = AUS
+			}
+
+			removal_cost = -1
+
+			picture = GFX_idea_conflict_left_and_right
+
+			modifier = {
+
+			}
+		}
+
+		AUS_Heimwehr = {
+			allowed = {
+				original_tag = AUS
+			}
+
+			picture = GFX_idea_Heimwer
+
+			removal_cost = -1
+
+			modifier = {
+				
 			}
 		}
 	}

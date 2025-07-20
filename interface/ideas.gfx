@@ -1,6 +1,21 @@
 spriteTypes = {	
 
 
+	spriteType = {
+		name = "GFX_idea_conflict_left_and_right"
+		texturefile = "gfx/interface/ideas/AUS/idea_conflict_left_and_right.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_Heimwer"
+		texturefile = "gfx/interface/ideas/AUS/Heimwer.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_bezrabotitsa"
+		texturefile = "gfx/interface/ideas/AUS/idea_bezrabotitsa.dds"
+	}
+
 
 	SpriteType = {
 		name = "GFX_idea_traits_strip"

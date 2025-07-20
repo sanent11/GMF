@@ -165,6 +165,7 @@ if = {
 	set_technology = {
 		armored_car1 = 1
 	}
+}
 	
 recruit_character = Puankare
 recruit_character = Mandel

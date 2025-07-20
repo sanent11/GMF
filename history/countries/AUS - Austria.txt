@@ -14,16 +14,30 @@ set_technology = {
 	gw_artillery = 1
 }
 
+recruit_character = AUS_Dolfus
+
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = fascism
 	last_election = "1932.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	neutrality = 48
-	fascism = 50
-	democratic = 1
-	communism = 10
+	communism = 0
+	bolshevizm = 10
+	revolt_soc = 5
+	democratic = 20
+	liberocratic = 0
+	conservocratic = 5
+	neutrality = 0
+	fascism = 60
+	romantism = 0
+	social_nationalism = 0
+}
+
+add_ideas = {
+	AUS_rising_unemployment
+	AUS_Conflict_between_left_and_right
+	AUS_Heimwehr
 }
