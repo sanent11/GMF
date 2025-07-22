@@ -1,0 +1,23 @@
+defined_text = {
+    name = IF_definition_dynamic_loc
+
+    #ENG
+    text = {
+        trigger = {
+            tag = ENG
+        }
+        localization_key = ENG_IF_definition_loc
+    }
+}
+
+defined_text = [
+    name = IF_dynamic_loc
+
+    #Английский король
+    text = {
+        trigger = {
+            tag = ENG
+        }
+        localization_key = ENG_Edward_VIII
+    }
+]

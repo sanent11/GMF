@@ -137,9 +137,9 @@ defined_text = {
 	    }
 		text = {
 		    trigger = {
-			    has_country_leader_ideology = oligarchism
+			    has_country_leader_ideology = authdem
 			}
-			localization_key = oligarchism
+			localization_key = authdem
 	    }
 		text = {
 		    trigger = {

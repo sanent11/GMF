@@ -1,0 +1,7 @@
+spriteTypes = {
+
+    spriteType = {
+        name = GFX_portrait_Law
+        texturefile =  "gfx/leaders/ENG/Law.dds"
+    }
+}

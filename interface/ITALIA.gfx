@@ -44,3 +44,4 @@ spriteTypes = {
 		name = "GFX_idea_karnavals_land"
 		texturefile = "gfx/interface/ideas/ITA/idea_karnavals_land.png"
 	}
+}

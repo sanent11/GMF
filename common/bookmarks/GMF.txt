@@ -3,7 +3,7 @@ bookmarks = {
 		name = "GMF_NAME"
 		desc = "GMF_DESC"
 		date = 1934.1.1.12
-		picture = "GFX_select_date_1936"
+		picture = "GFX_select_date_GMF"
 		default_country = "FRA"
 		default = yes
 		

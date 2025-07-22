@@ -1,0 +1,17 @@
+spriteTypes = {
+    #IMPORTANT FACES
+
+    #GLOBAL
+    spriteType = {
+        name = "GFX_IF_icon"
+        texturefile = "gfx/interface/IF_icon.dds"
+        legacy_lazy_load = no
+    }
+
+    #ENG
+    spriteType = {
+        name = "GFX_ENG_Edward_port"
+        textureFile = "gfx/texticons/IF/ENG/Edward_por.dds"
+        legacy_lazy_load = no
+    }
+}

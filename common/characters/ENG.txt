@@ -1,0 +1,19 @@
+characters = {
+
+    ENG_Andrew_Bonar_Law = {
+        name = ENG_Law_name
+        portraits = {
+            civilian = {
+                large = GFX_portrait_Law
+            }
+        }
+
+        country_leader = {
+            ideology = authdem
+            desc = Law_desc
+            traits = {}
+            expire = "1965.1.1.1"
+            id = -1
+        }
+    }
+}

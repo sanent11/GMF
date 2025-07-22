@@ -3,15 +3,20 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_bigicon_ideology_fiumanism"
 		texturefile = "gfx/texticons/banners/ideology_fiumanism.png"
-		legacy_lazy_load = no
-		
-		
+		legacy_lazy_load = no		
 	}
+	
+	
+	
+	####################ПАТЕРНАЛИЗМ
 	spriteType = {
 		name = "GFX_bigicon_ideology_persdictatoship"
 		texturefile = "gfx/texticons/banners/ideology_persdictatoship.png"
 		legacy_lazy_load = no
-		
-		
+	}
+	spriteType = {
+		name = "GFX_bigicon_ideology_authdem"
+		texturefile = "gfx/texticons/banners/ideology_authdem.dds"
+		legacy_lazy_load = no
 	}
 }

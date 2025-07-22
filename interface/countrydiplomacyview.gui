@@ -1,5 +1,19 @@
 guiTypes = {
-
+	containerWindowType = {
+		name = "GMF_IMPORTANT_face_container"
+		position = { x = 495 y = 125 }
+		size = { width = 40 height = 40 }
+		#margin = {top = 1 left = 1 right = 1 bottom = 1 }
+		clipping = no
+		scale = 0.5
+		iconType = {
+			name = "GMF_IMPORTANT_FACE_icon"
+			position = { x = 0 y = 0 }
+			spriteType = "GFX_IF_icon"
+			pdx_tooltip = "GMF_IF_tooltip"
+			pdx_tooltip_delayed = "GMF_IF_delayed_tooltip"
+		}
+	}
 	containerWindowType = {
 		name = "countrydiplomacyview"
 		position = { x=-606 y=78}

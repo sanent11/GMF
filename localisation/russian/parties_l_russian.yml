@@ -36,8 +36,13 @@
  
  fiumanism: "Фиуманизм"
  fiumanism_desc: "\n\n\n\n£GFX_bigicon_ideology_fiumanism\n\n\n\n\n"
+
+ ###Патерналисты
  personal_dictatura: "Персональная диктатура"
  personal_dictatura_desc: "\n\n\n\n£GFX_bigicon_ideology_persdictatoship\n\n\n\n\n" 
+ authdem: "Авторитарная демократия"
+ authdem_desc: "\n\n\n\n£GFX_bigicon_ideology_authdem\n\n\n\n\n"
+ 
  
  
  
