@@ -1,0 +1,30 @@
+ideas = {
+	country = {
+
+		HUN_Treaty_of_Trianon = {
+			allowed = {
+				original_tag = HUN
+			}
+
+			removal_cost = -1
+
+			picture = "GFX_idea_bezrabotitsa"
+
+			modifier = {		
+			}
+		}
+
+		HUN_kingdom_without_king = {
+			allowed = {
+				original_tag = HUN
+			}
+
+			removal_cost = -1
+
+			picture = "GFX_idea_bezrabotitsa"
+
+			modifier = {		
+			}
+		}
+	}
+}

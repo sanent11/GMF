@@ -8,7 +8,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = GFX_idea_bezrabotitsa
+			picture = "GFX_idea_bezrabotitsa"
 
 			modifier = {		
 				production_speed_buildings_factor = -0.3
@@ -23,7 +23,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = GFX_idea_conflict_left_and_right
+			picture = "GFX_idea_conflict_left_and_right"
 
 			modifier = {
 
@@ -35,7 +35,7 @@ ideas = {
 				original_tag = AUS
 			}
 
-			picture = GFX_idea_Heimwer
+			picture = "GFX_idea_Heimwer"
 
 			removal_cost = -1
 
