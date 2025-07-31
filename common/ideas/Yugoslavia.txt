@@ -1,0 +1,70 @@
+ideas = {
+	country = {
+
+		makedon_nati = {
+			allowed = {
+				original_tag = YUG
+			}
+
+			removal_cost = -1
+
+			picture = "GFX_idea_makedon_nati"
+
+			modifier = {		
+				
+				stability_factor = -0.1
+				on_add = {
+					106 = {
+						set_demilitarized_zone = no
+					}
+				}
+			}
+		}
+
+		liberalizatia_yugoslavii = {
+			allowed = {
+				original_tag = YUG
+			}
+
+			removal_cost = -1
+
+			picture = "GFX_idea_liberalizatia_yugoslavii"
+
+			modifier = {
+				liberocratic_drift = 0.01
+				conservocratic_drift = 0.01
+				neutrality_drift = -0.01
+				stability_factor = -0.1
+			}
+		}
+
+		yug_kurs_nezavisimost = {
+			allowed = {
+				original_tag = YUG
+			}
+
+			picture = "GFX_idea_yug_kurs_nezavisimost"
+
+			removal_cost = -1
+
+			modifier = {
+				stability_factor = 0.05
+				war_support_factor = -0.1
+			}
+		}
+		church_konflict = {
+			allowed = {
+				original_tag = YUG
+			}
+
+			picture = "GFX_idea_church_konflict"
+
+			removal_cost = -1
+
+			modifier = {
+				stability_factor = -0.2
+				fascism_drift = -0.02
+			}
+		}
+	}
+}

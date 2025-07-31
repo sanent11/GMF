@@ -1,0 +1,21 @@
+characters = {
+	
+	
+	bogolub_evtich = {
+		name = bogolub_evtich
+		portraits = {
+			civilian = {
+				large = GFX_portrait_bogolub_evtich
+			}
+		}
+
+		country_leader = {
+			ideology = conservatism
+			traits = {  }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+
+}
+

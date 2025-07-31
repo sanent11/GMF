@@ -7,12 +7,7 @@ state={
 
 	history={
 		owner = BUL
-		victory_points = { #Ruse
-			9612 3
-		}
-		victory_points = { #Pleven
-			3796 3
-		}
+		
 		buildings = {
 			infrastructure = 2
 			industrial_complex =1

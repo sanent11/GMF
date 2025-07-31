@@ -1,0 +1,63 @@
+ideas = {
+	country = {
+
+		crisis_govenment = {
+			allowed = {
+				original_tag = BUL
+			}
+
+			removal_cost = -1
+
+			picture = "GFX_idea_crisis_govenment"
+
+			modifier = {		
+				rev_soc_drift = -0.01
+				stability_factor = -0.15
+			}
+		}
+
+		memory_terror = {
+			allowed = {
+				original_tag = BUL
+			}
+
+			removal_cost = -1
+
+			picture = "GFX_idea_memory_terror"
+
+			modifier = {
+				stability_factor = -0.2
+				political_power_factor = -0.3
+			}
+		}
+
+		gorodam_pizdec = {
+			allowed = {
+				original_tag = BUL
+			}
+
+			picture = "GFX_idea_gorodam_pizdec"
+
+			removal_cost = -1
+
+			modifier = {
+				stability_factor = -0.4
+				production_factory_efficiency_gain_factor = -0.3
+			}
+		}
+		golod_bulgarii = {
+			allowed = {
+				original_tag = BUL
+			}
+
+			picture = "GFX_idea_gorodam_pizdec"
+
+			removal_cost = -1
+
+			modifier = {
+				weekly_manpower = -1000
+				production_factory_efficiency_gain_factor = -0.3
+			}
+		}
+	}
+}

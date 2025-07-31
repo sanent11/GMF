@@ -1,0 +1,21 @@
+characters = {
+	
+	
+	stamboliski = {
+		name = stamboliski
+		portraits = {
+			civilian = {
+				large = GFX_portrait_stamboliski
+			}
+		}
+
+		country_leader = {
+			ideology = revolt_soc_ideology
+			traits = {  }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+
+}
+
