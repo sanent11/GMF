@@ -24,7 +24,6 @@ spriteTypes = {
 	}
 
 
-	SpriteType = {
 	### CONSCRIPTION LAWS
 	spriteType = {
 		name = "GFX_idea_disarmed_nation"
@@ -84,7 +83,7 @@ spriteTypes = {
 		name = "GFX_idea_tot_economic_mobilisation"
 		texturefile = "gfx/interface/ideas/idea_tot_economic_mobilisation.dds"
 	}
-
+	SpriteType = {
 		name = "GFX_idea_traits_strip"
 		texturefile = "gfx/interface/ideas/idea_traits_strip.dds"
 		noOfFrames = 18
