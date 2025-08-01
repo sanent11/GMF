@@ -1,0 +1,105 @@
+ideas = {
+    country = {
+
+        empire_fatigue = {
+            allowed = {
+                original_tag = ENG
+            }
+            removal_cost = -1
+
+            picture = idea_emp_fatigue
+
+            modifier = {
+                political_power_factor = -0.1
+                stability_factor = -0.15
+                production_factory_start_efficiency_factor = -0.05
+                training_time_army_factor = 0.1
+            }
+        }
+
+        fire_wall = {
+            allowed = {
+                original_tag = ENG
+            }
+            removal_cost = -1
+
+            picture = "GFX_firewall"
+
+            modifier = {
+                stability_factor = 0.05
+            }
+
+            futures_cabinet = {
+                allowed = {
+                    original_tag = ENG
+                }
+                removal_cost = -1
+
+                picture = "GFX_futures_cabinet"
+
+                modifier = {
+                    political_power_factor = 0.1
+                    research_speed_factor = 0.05
+                    trade_laws_factor = -0.1
+                    mobilization_laws_factor = -0.1
+                }
+            }
+        }
+
+        compromise_balance = {
+            allowed = {
+                original_tag = ENG  
+            }
+            removal_cost = -1
+
+            picture = "GFX_compromise_balance"
+
+            modifier = {
+                stability_factor = -0.15
+                political_power_cost = 15
+            }
+        }
+
+        weaken_parlament = {
+            allowed = {
+                original_tag = ENG
+            }
+
+            removal_cost = -1
+
+            modifier = {
+                stability_weekly = -0.02
+                political_power_gain = -0.5
+            }
+        }
+
+        empire_legacy = {
+            allowed = {
+                original_tag = ENG
+            }
+
+            removal_cost = -1
+
+            modifier = {
+                state_resources_factor = -0.15
+                stability_factor = -0.1
+                required_garrison_factor = 0.1
+            }
+        }
+
+        economic_stagnation = {
+            allowed = {
+                original_tag = ENG
+            }
+            
+            removal_cost = -1
+
+            modifier = {
+                production_factory_efficiency_gain_factor = -0.15
+                production_speed_buildings_factor = -0.1
+                production_factory_max_efficiency_factor = -0.05
+                consumer_goods_factor = 0.05
+            }
+        }
+    }
+}

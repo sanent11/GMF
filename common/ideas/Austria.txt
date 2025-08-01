@@ -23,7 +23,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = "GFX_idea_conflict_left_and_right"
+			picture = idea_conflict_left_and_right
 
 			modifier = {
 

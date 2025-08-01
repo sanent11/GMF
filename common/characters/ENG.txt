@@ -16,4 +16,21 @@ characters = {
             id = -1
         }
     }
+
+    Hankey = {
+        name = Hankey
+        portraits = {
+            civilian = {
+                small = GFX_portrait_Hankey_min
+            }
+        }
+        advisor = {
+            slot = political_advisor1
+            idea_token = Hankey_min
+            ledger = civilian
+            traits = {
+                Hankey_min_trait
+            }
+        }
+    }
 }

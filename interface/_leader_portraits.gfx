@@ -1,7 +1,13 @@
 spriteTypes = {
 
+    #АНГЛИЯ
     spriteType = {
         name = GFX_portrait_Law
         texturefile =  "gfx/leaders/ENG/Law.dds"
+    }
+
+    spriteType = {
+        name = GFX_portrait_Hankey_min
+        texturefile = "gfx/leaders/ENG/ministers/Hankey.dds"
     }
 }
