@@ -1,0 +1,21 @@
+characters = {
+	
+	
+	georgios_kondalis = {
+		name = georgios_kondalis
+		portraits = {
+			civilian = {
+				large = GFX_portrait_georgios_kondalis
+			}
+		}
+
+		country_leader = {
+			ideology = war_hunta
+			traits = {  }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+
+}
+

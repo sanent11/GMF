@@ -319,7 +319,11 @@ ideologies = {
 	neutrality = {
 
 		types = {
-
+			war_hunta = {
+			}
+			absolute_monarchy = {
+			}
+			
 			despotism  = {
 			}
 

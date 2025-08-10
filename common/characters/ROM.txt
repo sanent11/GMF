@@ -1,0 +1,21 @@
+characters = {
+	
+	
+	george_teteresku = {
+		name = george_teteresku
+		portraits = {
+			civilian = {
+				large = GFX_portrait_george_teteresku
+			}
+		}
+
+		country_leader = {
+			ideology = liberalism
+			traits = {  }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+
+}
+

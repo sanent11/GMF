@@ -22,7 +22,37 @@ spriteTypes = {
 		name = "GFX_idea_emp_fatigue"
 		texturefile = "gfx/interface/ideas/ENG/idea_emp_fatigue.dds"
 	}
-
+	
+	
+	## BUL
+	
+	spriteType = {
+		name = "GFX_idea_crisis_govenment"
+		texturefile = "gfx/interface/ideas/BUL/crisis_govenment.dds" 
+	}
+	spriteType = {
+		name = "GFX_idea_memory_terror"
+		texturefile = "gfx/interface/ideas/BUL/memory_terror.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_gorodam_pizdec"
+		texturefile = "gfx/interface/ideas/BUL/gorodam_pizdec.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_golod_bulgarii"
+		texturefile = "gfx/interface/ideas/BUL/golod_bulgarii.dds"
+	}
+	
+	## YUG
+	
+	spriteType = {
+		name = "GFX_idea_makedon_nati"
+		texturefile = "gfx/interface/ideas/YUG/makedon_nati.dds"  
+	}
+	spriteType = {
+		name = "GFX_idea_liberalizatia_yugoslavii"
+		texturefile = "gfx/interface/ideas/YUG/liberalizatia_yugoslavii.dds" 
+	}
 
 	### CONSCRIPTION LAWS
 	spriteType = {

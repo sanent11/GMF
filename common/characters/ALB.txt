@@ -1,0 +1,21 @@
+characters = {
+	
+	
+	ahmet_zogu = {
+		name = ahmet_zogu
+		portraits = {
+			civilian = {
+				large = GFX_portrait_ahmet_zogu
+			}
+		}
+
+		country_leader = {
+			ideology = absolute_monarchy
+			traits = {  }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+
+}
+
